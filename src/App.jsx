@@ -15,7 +15,7 @@ import { Product } from './pages/Product';
 export const App = () => {
   return (
     <>
-      <Router>
+      <Router basename='/react-food'>
         <Header />
         <main className='container content'>
           <Switch>
