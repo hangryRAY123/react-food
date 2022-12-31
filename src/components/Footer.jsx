@@ -5,7 +5,7 @@ export const Footer = () => (
         © {new Date().getFullYear()} Copyright Text
         <a
           className='grey-text text-lighten-4 right'
-          href='https://github.com/hangryRAY123/react-shop'
+          href='https://hangryRAY123.github.io/react-food'
           target='_blank'
           rel='noreferrer'
         >
